@@ -1,0 +1,40 @@
+
+
+:root {
+  /* ------------- COLORES ---------- */
+  --color-celeste1: #93cdde;
+  --color-celeste2: #2083a1ea;
+  --color-celeste3: #f7f8fd;
+  --color-azul: #1c6d8d;
+  --color-azul-oscuro: #214863;
+  --color-verde: #60b137;
+  --color-verde2:rgb(63, 156, 91);
+  --color-verde3: #039c00;
+  --color-texto: #515858;
+  --color-borde: #8799a8;
+  --color-body: #f3f4fb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* body {
+  overflow-x: hidden;
+} */
+
+.App {
+  text-align: center;
+  background-color: var(--color-body);
+  font-family: 'Public Sans', sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+
+
+
+
+
